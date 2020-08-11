@@ -1,1 +1,2 @@
 second file for the git learning revisited.
+More changes being made for after pushing the repository to git-hub.
