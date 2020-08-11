@@ -2,4 +2,7 @@ first file created for learning git.
 New comment for the new commit. Now i think i am good at typing with my 10 fingers and without looking while doing so but i still need a lot of practice for this.
 A new change being made for the conflict example.
 This is what i want....New change in the master.
+This is what i want
+Changes for feature-d
+
 
